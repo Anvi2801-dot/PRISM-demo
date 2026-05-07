@@ -1,4 +1,4 @@
-# Prism-Onboarder
+# PRISM- Predictive Risk & Identity Screening Module
 
 A fullstack user onboarding platform built with React 19, TypeScript, and Node.js/Express. Features a public landing page, a guided onboarding flow for new users, and an admin dashboard for managing onboarding progress.
 
